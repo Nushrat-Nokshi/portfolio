@@ -1,0 +1,138 @@
+body{
+   font-family: 'Lato', sans-serif;
+   background-image: url(bs.jpg);
+   background-size: cover;
+   background-attachment: fixed ;
+   margin: 0px;
+  
+}
+
+.top-banner{
+    background-image: url(Image/blob.png);
+    background-repeat: no-repeat;
+    
+}
+
+h1{
+    font-size: 50px;
+    color: white;
+    
+}
+
+h2{
+    color: white;
+    
+}
+
+h3{
+    color: white;
+    margin-top: -20px;
+}
+
+p{
+    color: white;
+}
+
+.orange{
+    color: rgb(241, 186, 6);
+}
+
+.half-width img{
+    width: 55%;
+    padding-left:35%;
+    margin-top: 06%;
+    margin-right: 09%;
+    
+}
+
+.alada{
+    display: flex;
+    margin-bottom: 150px;
+    
+}
+.half-width{
+    width: 50%;
+    padding-left: 2%;
+
+}
+a{
+    text-decoration: none;
+}
+.link-button{
+    text-decoration: none;
+    background-color: lightblue;
+    padding: 10px;
+    border-radius: 5px;
+    background-image: linear-gradient( rgb(113, 210, 240) ,rgb(10, 74, 117) );
+    color: white;
+}
+
+.width{
+    width: 50%;
+    padding-left: 2%;
+}
+
+/*.half img{
+   
+    width: 55%;
+   
+}*/
+
+.Blue{
+    color: rgb(10, 227, 243);
+}
+.sec-banner{
+    background-image: url(Image/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-bottom: 90px;
+
+}
+.button{
+
+    text-decoration: none;
+    background-color: lightblue;
+    padding: 10px;
+    border-radius: 5px;
+    background-image: linear-gradient(rgb(240, 215, 72) , rgb(167, 102, 6) );
+    color: rgb(0, 0, 0);
+}
+
+.experiences{
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.light{
+    color: rgb(21, 115, 223);
+}
+
+.merun{
+    color:rgb(235, 171, 35) ;
+}
+
+.half{
+    border-radius: 20px;
+    width: 40%;
+    box-shadow: 10px 8px 20px rgb(49, 104, 224);
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    background-color: rgb(17, 63, 105);
+   
+  
+}
+
+.yx{
+    background-image: url(Image/exp-bg.png);
+    background-repeat: no-repeat;
+    padding-bottom: 90px;
+
+}
+
+h1{
+    color: rgb(170, 211, 250);
+    padding-left: 20px;
+    text-shadow: 2px 2px rgb(9, 21, 36);
+  
+}
